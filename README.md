@@ -3,7 +3,7 @@
 ## Requirements
 
 * Python 3.X
-* Install vlc player
+* Install [vlc player](https://www.videolan.org/vlc)
 
 ## Packages installation
 
